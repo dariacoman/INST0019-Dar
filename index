@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta name="viewport“
+content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <h1>Daria's Webpage</h1>
+        <h2>Welcome to my first webpage</h2>
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        <img src="./star-icon-9.png" style="width:25%"> 
+
+    </body>
+
+<body>
+    <p>Hello everyone</p>
+</body>
+
+<img src="./maxresdefault.jpg" style="width:100%;">
+
+my classmates are:
+        <a href=https://kangyi.w3spaces.com/index.html>kangyi</a>
+and
+<a href=https://stabilized-sweetheart-gratified.w3spaces.com/index.html>mariam</a>
+
+
+</html>
